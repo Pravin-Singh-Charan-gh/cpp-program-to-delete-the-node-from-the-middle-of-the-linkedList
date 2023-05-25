@@ -1,0 +1,1 @@
+# cpp-program-to-delete-the-node-from-the-middle-of-the-linkedList
